@@ -1,0 +1,21 @@
+{
+  "raw_points": 1060218,
+  "after_low_height_filter_points": 1016747,
+  "after_voxelization_points": 72216,
+  "initial_cut_pursuit_components": 31,
+  "valid_tree_candidates": 12,
+  "mean_tree_height_m": 7.8189,
+  "min_tree_height_m": 2.4623,
+  "max_tree_height_m": 12.7309,
+  "std_tree_height_m": 2.8553,
+  "voxel_size_m": 0.1,
+  "k_neighbors": 16,
+  "regularization": 2.5,
+  "z_weight": 0.2,
+  "selected_tree_ids": [
+    18,
+    7,
+    8,
+    0
+  ]
+}
